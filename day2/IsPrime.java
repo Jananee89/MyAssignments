@@ -5,7 +5,7 @@ import java.util.Iterator;
 public class IsPrime {
 
 	public static void main(String[] args) {
-		int n=2;
+		int n=17;
 		System.out.println("The number is:" +n);
 		int count=0;
 		if(n==0 || n==1)
